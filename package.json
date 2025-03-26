@@ -1,5 +1,5 @@
 {
-"homepage": "https://mokariyaprit.github.io/Portfolio/",
+"homepage": "https://bhavesh.github.io/Portfolio/",
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -9,9 +9,9 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+  "predeploy": "npm run build",  
+  "deploy": "gh-pages -d build" 
+},
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.14.0",
