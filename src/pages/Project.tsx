@@ -15,17 +15,17 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 // Import images (as per your code)
-import susi1 from "../../public/assets/susi/Screen1.png";
-import susi2 from "../../public/assets/susi/Screen2.png";
-import susi3 from "../../public/assets/susi/Screen3.png";
-import susi4 from "../../public/assets/susi/Screen4.png";
-import susi5 from "../../public/assets/susi/Screen5.png";
-import susi6 from "../../public/assets/susi/Screen6.png";
+import susi1 from "../../assets/susi/Screen1.png";
+import susi2 from "../../assets/susi/Screen2.png";
+import susi3 from "../../assets/susi/Screen3.png";
+import susi4 from "../../assets/susi/Screen4.png";
+import susi5 from "../../assets/susi/Screen5.png";
+import susi6 from "../../assets/susi/Screen6.png";
 
-import expance1 from "../../public/assets/expance/Screen1.png";
-import expance2 from "../../public/assets/expance/Screen2.png";
-import expance3 from "../../public/assets/expance/Screen3.png";
-import expance4 from "../../public/assets/expance/Screen4.png";
+import expance1 from "../../assets/expance/Screen1.png";
+import expance2 from "../../assets/expance/Screen2.png";
+import expance3 from "../../assets/expance/Screen3.png";
+import expance4 from "../../assets/expance/Screen4.png";
 
 // Project data (as per your code)
 const projects = [

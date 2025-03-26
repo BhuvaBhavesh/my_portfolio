@@ -1,7 +1,7 @@
 import { Box, Typography, Container, Grid } from "@mui/material";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
-import headerImage from "../../public/assets/header.png"; // ✅ Import image
+import headerImage from "../../assets/header.png"; // ✅ Import image
 
 // Animation variants for fade-in effect
 const fadeVariants = {

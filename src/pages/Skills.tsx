@@ -3,13 +3,13 @@ import { Box, Typography, Grid, Button } from "@mui/material";
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
-import swiftIcon from "../../public/assets/swift.png";
-import swiftuiIcon from "../../public/assets/swiftui.png";
-import uikitIcon from "../../public/assets/uikit.png";
-import combineIcon from "../../public/assets/combine.png";
-import coredataIcon from "../../public/assets/coredata.png";
-import firebaseIcon from "../../public/assets/firebase.png";
-import xcodeIcon from "../../public/assets/xcode.png";
+import swiftIcon from "../../assets/swift.png";
+import swiftuiIcon from "../../assets/swiftui.png";
+import uikitIcon from "../../assets/uikit.png";
+import combineIcon from "../../assets/combine.png";
+import coredataIcon from "../../assets/coredata.png";
+import firebaseIcon from "../../assets/firebase.png";
+import xcodeIcon from "../../assets/xcode.png";
 
 const skills = [
   { name: "Swift", color: "#F05138", icon: swiftIcon },
